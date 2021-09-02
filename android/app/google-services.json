@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324303312135",
+    "firebase_url": "https://ecell-appog-3542a.firebaseio.com",
+    "project_id": "ecell-appog-3542a",
+    "storage_bucket": "ecell-appog-3542a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324303312135:android:e3873be3626444d02e61a2",
+        "android_client_info": {
+          "package_name": "com.ecell.testappog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324303312135-f497fdph7gh0sif3i8giva77b8hf7vsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxnRPqp-qLozZ9r5VJy2OJQBLO_kf0fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324303312135-f497fdph7gh0sif3i8giva77b8hf7vsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
